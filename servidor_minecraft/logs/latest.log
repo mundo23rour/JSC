@@ -26,3 +26,13 @@
 [23:22:27] [Server thread/INFO]: Time elapsed: 4467 ms
 [23:22:27] [Server thread/INFO]: Done (11.473s)! For help, type "help"
 [23:23:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:34:35] [Server thread/INFO]: Sebas23m[/127.167.218.7:37907] logged in with entity id 67 at (62.5, 79.0, 71.5)
+[23:34:35] [Server thread/INFO]: Sebas23m joined the game
+[23:36:48] [Server thread/INFO]: juanp123[/127.110.224.164:37823] logged in with entity id 700 at (54.5, 75.0, 72.5)
+[23:36:48] [Server thread/INFO]: juanp123 joined the game
+[23:40:34] [Server thread/INFO]: Sebas23m has made the advancement [Stone Age]
+[23:40:39] [Server thread/INFO]: [Not Secure] <Sebas23m> hola
+[23:41:03] [Server thread/INFO]: juanp123 lost connection: Timed out
+[23:41:03] [Server thread/INFO]: juanp123 left the game
+[23:41:03] [Server thread/WARN]: handleDisconnection() called twice
+[23:41:12] [Server thread/INFO]: Sebas23m has made the advancement [Getting an Upgrade]
