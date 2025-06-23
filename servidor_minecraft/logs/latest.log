@@ -32,3 +32,17 @@
 [18:50:42] [Server thread/INFO]: Sebas23m was shot by Skeleton
 [18:52:26] [Server thread/INFO]: Sebas23m has made the advancement [Not Today, Thank You]
 [18:53:32] [Server thread/INFO]: Sebas23m was slain by Zombie
+[19:00:01] [Server thread/INFO]: Sebas23m was slain by Zombie
+[19:01:31] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[19:01:31] [Server thread/INFO]: Sebas23m left the game
+[19:01:39] [Server thread/INFO]: Stopping the server
+[19:01:39] [Server thread/INFO]: Stopping server
+[19:01:39] [Server thread/INFO]: Saving players
+[19:01:39] [Server thread/INFO]: Saving worlds
+[19:01:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:01:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:01:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:01:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:01:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:01:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:01:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
