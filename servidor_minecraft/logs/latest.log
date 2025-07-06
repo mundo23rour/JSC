@@ -10,3 +10,24 @@
 [00:10:24] [Server thread/INFO]: Sebas23m lost connection: Disconnected
 [00:10:24] [Server thread/INFO]: Sebas23m left the game
 [00:17:15] [Server thread/INFO]: jp7806073 has made the advancement [Acquire Hardware]
+[00:21:28] [Server thread/INFO]: Sebas23m[/127.154.100.82:60059] logged in with entity id 7323 at (297.6082660523762, 89.9375, -263.5994492648148)
+[00:21:28] [Server thread/INFO]: Sebas23m joined the game
+[00:23:29] [Server thread/INFO]: jp7806073 has made the advancement [Isn't It Iron Pick]
+[00:23:47] [Server thread/INFO]: jp7806073 has made the advancement [Suit Up]
+[00:26:17] [Server thread/INFO]: Made Sebas23m a server operator
+[00:26:29] [Server thread/INFO]: [Sebas23m: The difficulty has been set to Hard]
+[00:26:41] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[00:27:04] [Server thread/INFO]: jp7806073 was shot by Skeleton
+[00:30:07] [Server thread/INFO]: jp7806073 was shot by Skeleton
+[00:33:09] [Server thread/INFO]: jp7806073 fell from a high place
+[00:37:44] [Server thread/INFO]: jp7806073 was slain by Zombie
+[00:38:06] [Server thread/INFO]: Incorrect argument for command
+[00:38:06] [Server thread/INFO]: op  Sebas23m<--[HERE]
+[00:38:16] [Server thread/INFO]: Made Sebas23m a server operator
+[00:39:01] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to Sebas23m]
+[00:39:07] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to Sebas23m]
+[00:39:07] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=31, y=82, z=36} iw{x=15, y=84, z=11}
+[00:39:08] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=31, y=82, z=36} iw{x=15, y=84, z=12}
+[00:39:08] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=31, y=82, z=36} iw{x=15, y=84, z=11}
+[00:39:21] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[00:39:39] [Server thread/INFO]: [Sebas23m: Made jp7806073 a server operator]
