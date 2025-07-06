@@ -31,3 +31,33 @@
 [00:39:08] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=31, y=82, z=36} iw{x=15, y=84, z=11}
 [00:39:21] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
 [00:39:39] [Server thread/INFO]: [Sebas23m: Made jp7806073 a server operator]
+[00:40:40] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[00:41:48] [Server thread/INFO]: [jp7806073: Teleported Sebas23m to jp7806073]
+[00:44:03] [Server thread/INFO]: Sebas23m has made the advancement [Isn't It Iron Pick]
+[00:49:59] [Server thread/INFO]: Sebas23m was slain by Cave Spider
+[00:50:38] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[00:51:53] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[00:52:20] [Server thread/INFO]: Villager cru['Farmer'/18699, l='ServerLevel[world]', x=184.70, y=110.00, z=399.49] died, message: 'Farmer froze to death'
+[00:52:39] [Server thread/INFO]: Sebas23m was shot by Skeleton
+[00:52:58] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -52.500000, -19.000000, 157.500000]
+[00:53:25] [Server thread/INFO]: Sebas23m has made the advancement [Not Today, Thank You]
+[00:53:57] [Server thread/INFO]: Sebas23m was shot by Skeleton
+[00:54:10] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -53.000000, 75.000000, 155.000000]
+[00:54:28] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -50.000000, 73.000000, 157.000000]
+[00:54:32] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -52.500000, -19.000000, 157.500000]
+[00:54:57] [Server thread/INFO]: Sebas23m was shot by Skeleton
+[00:55:39] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[00:55:39] [Server thread/INFO]: jp7806073 left the game
+[00:55:49] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[00:55:49] [Server thread/INFO]: Sebas23m left the game
+[00:56:01] [Server thread/INFO]: Stopping the server
+[00:56:01] [Server thread/INFO]: Stopping server
+[00:56:01] [Server thread/INFO]: Saving players
+[00:56:01] [Server thread/INFO]: Saving worlds
+[00:56:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:56:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:56:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:56:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:56:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:56:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:56:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
